@@ -1,3 +1,3 @@
-# LN_Template
+# NA_Plantill  
 
-This is a template for lecture notes and notes in general.
+Esta es un aplantilla para notas de aula en espanol.
